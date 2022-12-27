@@ -5,6 +5,7 @@
   - Cartoes
   - Gateway
 - Eureka Server / Client
+- Feign Client
 - Comunicação entre microservices
 - Segurança da API 
   - Keycloak
