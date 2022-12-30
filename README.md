@@ -11,5 +11,5 @@
   - Keycloak
 - Serviço de Mensageria
   - RabbitMQ
-
+- Docker
 
