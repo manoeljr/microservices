@@ -3,6 +3,7 @@
 - Microservices
   - Clientes
   - Cartoes
+  - Avaliador de Credito
   - Gateway
 - Eureka Server / Client
 - Feign Client
