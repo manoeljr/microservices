@@ -1,11 +1,17 @@
 spring:
   application:
     name: eurekaserver
+  security:
+    basic:
+      enabled: true
+    user:
+      name: cursoma-eureka-user
+      password: ecok-usr-eeuramssur
 
 server:
   port: 8761
 
 eureka:
   client:
-    register-with-eureka: false # Não registrar o eureka server
+    register-with-eureka: false # Nï¿½o registrar o eureka server
     fetch-registry: false
